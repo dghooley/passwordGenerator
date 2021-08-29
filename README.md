@@ -27,4 +27,4 @@ This week's Challenge required us to create an application that an individual ca
 <img width="796" alt="Screen Shot 2021-08-29 at 12 34 39 PM" src="https://user-images.githubusercontent.com/29662632/131259922-dc2e1a88-2277-4a92-b01d-5f713dce763f.png">
 
 #### Live URL
-https://dghooley.github.io/passwordGenerator/
+https://github.com/dghooley/passwordGenerator.git
