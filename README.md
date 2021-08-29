@@ -31,4 +31,4 @@ This week's Challenge required us to create an application that an individual ca
 https://github.com/dghooley/passwordGenerator.git
 
 #### Link to live URL
-https://dghooley.github.io/passwordgenerator/
+https://dghooley.github.io/passwordGenerator/
