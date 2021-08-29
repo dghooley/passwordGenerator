@@ -11,7 +11,7 @@ var specialCharConfirm;
 
 // Asking user to choose number of characters for password length
 function findPasswordLength() {
-  passLength = prompt("Please choose a number between 8 and 128 for the amount of characters you would like in your password): ");
+  passLength = prompt("Please choose a number between 8 and 128 for the amount of characters you would like in your password)");
   if (passLength<8) {
     alert("Password must be a number between 8 and 128 characters");
     findPasswordLength();
