@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: hsl(58, 100%, 89%);
 }
 
 .wrapper {
@@ -24,30 +24,32 @@ body {
 }
 
 header {
+  font-size:xx-large;
+  font-style:inherit;
   text-align: center;
-  padding: 20px;
-  padding-top: 0px;
+  padding: 100px;
+  padding-top: 50px;
   color: hsl(206, 17%, 28%);
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
-  border-radius: 5px;
+  background-color: hsl(216, 100%, 89%);
+  border-radius: 5;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
   color: hsl(206, 17%, 28%);
-  font-size: 18px;
+  font-size: 21px;
   margin: 0 auto;
-  max-width: 800px;
-  padding: 30px 40px;
+  max-width: 1000px;
+  padding: 10px 50px;
 }
 
 .card-header::after {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
-  height: 2px;
+  background: #8392a1;
+  height: .2px;
 }
 
 .card-body {
@@ -62,8 +64,8 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
-  height: 2px;
+  background: #46719c;
+  height: .2px;
 }
 
 .card-footer::after {
@@ -74,13 +76,13 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: hsl(216, 100%, 50%);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
   color: hsl(0, 0%, 100%);
   display: inline-block;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 22px;
   margin: 16px 16px 16px 20px;
   padding: 14px 34px;
